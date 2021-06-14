@@ -1,0 +1,81 @@
+h1 {
+	text-align: center;
+	color: white;
+	text}
+.escolha {
+	background: black;
+	height: 40px;
+	width: 300px;
+	border: solid white;
+	border-radius: 20px;
+	}
+body {
+	background-image: url(imagens/fundo.jpg);
+	background-size: cover ;
+	background-repeat: no-repeat ;
+	cursor: pointer;
+	position: center;
+  	}
+#titulo{
+	 	width: 100px;
+	 	height: 100px;
+	 	background: black;}
+#filmes {
+		border-radius: 12px;
+		border: solid white;
+		list-style-type: none; }
+#menu {
+ 		background: #111111 ;
+ 		padding: 17px;
+ 		text-align: ;
+ 		border: solid lightgray; }
+#sinopse{ 
+   background: #111111;
+		color: gray;
+		width: 600px;
+		height: 200px;
+		border: solid gray;
+		border-radius: 20px;
+		padding: 24px;}
+#escolher {
+		background: black;
+		width: 300px; }
+a {
+ 		color: white;
+ 		font-weight: bold;
+ 		text-align: center;
+ 		text-decoration: none;
+ 		padding: 8px; }
+iframe{ 
+		border: solid gray; 
+		border-radius: 20px;  }
+#lista{
+		background: #111111;
+		color: gray;
+		border: solid gray;
+		padding: 18px;
+		display: inline-block;
+		border-radius: 20px;}
+img{
+		border-radius: 20px;
+		border: solid white;}
+#trailer{
+		background: #111111;
+		color: white;
+		width: 70%;
+		height: 30% ;
+		border: solid white;
+		border-radius: 20px;
+		float: none;
+		padding: 24px;	
+		}	
+#data {
+		background: #111111;
+		color: white;
+		width: 30%;
+		height: 30%;
+		border: solid white;
+		border-radius: 20px;
+		float:right ;
+		padding: 24px;	
+		}
