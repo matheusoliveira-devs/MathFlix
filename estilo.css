@@ -1,0 +1,109 @@
+h1 {
+	text-align: center;
+	color: white;
+	text}
+.escolha {
+	background: black;
+	height: 40px;
+	width: 300px;
+	border: 1px solid white;
+	border-radius: 8px;
+	margin: 40px 13px;
+	}
+body {
+	background-image: url(imagens/fundo.jpg);
+	background-size: cover ;
+	background-repeat: no-repeat ;
+	cursor: pointer;
+	position: center;
+  	}
+#titulo{
+	 	width: 100px;
+	 	height: 100px;
+	 	background: black;}
+#filmes {
+		border-radius: 12px;
+		border: solid white;
+		list-style-type: none;
+		padding: 20px;
+		margin: 20px;
+		position: relative; }
+
+
+#menu {
+ 		background: #111111 ;
+ 		padding: 17px 30px 12px 30px ;
+ 		text-align: ;
+ 		border: solid #11111;
+ 		margin: 12px;
+ 		border-radius: 8px;
+ 		height: 30px;
+ 		font-size: 110%;
+
+ 		 }
+
+
+#sinopse{ 
+   background: #111111;
+		color: white;
+		width: 60%;
+		height: 30%;
+		border: solid gray;
+		border-radius: 20px;
+		padding: 24px;}
+#escolher {
+		background: black;
+		width: 300px; }
+a {
+ 		color: white;
+ 		font-weight: bold;
+ 		text-align: center;
+ 		text-decoration: none;
+ 		padding: 5px; }
+iframe{ 
+		border: solid gray; 
+		border-radius: 20px;  }
+#lista{
+		width: 40%;
+		height: 30%;
+		background: #111111;
+		color: white;
+		border: solid gray;
+		padding: 18px;
+		display: inline-block;
+		border-radius: 20px;}
+img{
+		border-radius: 20px;
+		border: solid white;
+		position: relative;
+		top:0}
+img:hover{top:-4px;box-shadow:0 4px 4px #999;
+   transition: all .2s ease-in-out}
+
+#trailer{
+		background: #111111;
+		color: white;
+		width: 70%;
+		height: 30% ;
+		border: solid white;
+		border-radius: 20px;
+		float: none;
+		padding: 24px;	
+		}	
+#data {
+		background: #111111;
+		color: white;
+		width: 30%;
+		height: 30%;
+		border: solid white;
+		border-radius: 20px;
+		float:right ;
+		padding: 24px;	
+		}
+	.logo{
+			width: 100px;
+			height: 30px;
+			text-align: center;
+			border: none;
+			float: right;	
+		}
